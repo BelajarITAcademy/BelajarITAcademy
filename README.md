@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Kami adalah startup pendidikan dengan metode stud kasus
+
+👨‍💻Disini kumpulan source code dari Web,dll
+
+Lengkapnya bisa di 
+https://linktr.ee/belajarITacademy
 
 <!--
 **BelajarITAcademy/BelajarITAcademy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
